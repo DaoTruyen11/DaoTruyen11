@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** passionate about building 
 
 ## 💻 My Skills
 ### Front-End
-- **HTML5**, **CSS3**, **JavaScript** (ES6+)
-- **React.js**, **Vue.js**, **Bootstrap**, **Tailwind CSS**
+- **HTML5**, **CSS3**, **JavaScript** 
 
 ### Back-End
 - **C#**, **Spring Boot**, **Java**
